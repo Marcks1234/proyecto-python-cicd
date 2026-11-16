@@ -3,7 +3,7 @@ from main import calcular_area
 
 
 def test_calcular_area_valida():
-    assert calcular_area(5, 10) == 999
+    assert calcular_area(5, 10) == 50
 
 
 def test_calcular_area_decimales():
